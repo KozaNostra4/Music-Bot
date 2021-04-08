@@ -1,0 +1,7 @@
+{
+  "name": "EvoBot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/KozaNostra4/Music-Bot.git",
+  "logo": "https://cdn.discordapp.com/attachments/797190563707093004/829634084821139476/350kb.gif",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
